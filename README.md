@@ -86,10 +86,3 @@ All data is persisted using localStorage, including:
 4. **Recharts**: Implemented for data visualization needs
 5. **React Router**: Used for client-side routing
 
-## Contributing
-
-This is a frontend-only project for demonstration purposes. No contributions are being accepted at this time.
-
-## License
-
-This project is proprietary and confidential. 
